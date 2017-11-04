@@ -1,0 +1,15 @@
+{
+  "name": "twitter-nodejs",
+  "version": "1.0.0",
+  "description": "Simple NodeJS command line for Twitter",
+  "main": "main.js",
+  "scripts": {
+    "tweet": "node main"
+  },
+  "author": "Defite",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^3.3.0",
+    "twit": "^2.2.9"
+  }
+}
